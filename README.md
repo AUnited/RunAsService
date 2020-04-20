@@ -95,3 +95,5 @@ and
         net stop "My Service"
     
 Where "My Service" would be replaced with the name of your service.
+
+Icon provided by [Pixel Mixer](http://www.pixel-mixer.com/)
