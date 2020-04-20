@@ -1,9 +1,9 @@
 # RunAsService
 RunAsService is a command line tool that allows you to setup a regular  console application to run as a service.
 
-This tool requires that .NET Framework 2.0 be already installed on your computer.
-If you do not have .NET Framework 2.0 this tool will display a message and not run.
-You probably already have the .NET Framework 2.0 but if you don't you can download 
+This tool requires that .NET Framework 4.0 be already installed on your computer.
+If you do not have .NET Framework 4.0 this tool will display a message and not run.
+You probably already have the .NET Framework 4.0 but if you don't you can download 
 it here: Microsoft Download Center
 
 IMPORTANT: Any services you install using this tool will
